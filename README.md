@@ -26,6 +26,7 @@ Maintained by [HowMuchStuff](https://howmuchstuff.com) — free materials and qu
 Complete calculator suites covering multiple project types.
 
 - [HowMuchStuff](https://howmuchstuff.com) - 82 free calculators across 11 categories including concrete, landscaping, painting, flooring, roofing, and more. Instant results with local pricing.
+- [Concrete Calculator Max](https://concretecalculatormax.com) - Specialized suite of 26 free concrete and masonry calculators covering structural, gravel, and cost estimation.
 - [Calculator.net](https://www.calculator.net/construction-calculator.html) - General-purpose calculators with a construction section.
 - [Omni Calculator](https://www.omnicalculator.com/construction) - Science-based calculators including construction and engineering tools.
 - [Inch Calculator](https://www.inchcalculator.com) - Construction and home improvement calculators with detailed methodology.
@@ -35,6 +36,7 @@ Complete calculator suites covering multiple project types.
 Calculate volumes, bag counts, and costs for concrete and masonry projects.
 
 - [HowMuchStuff Concrete Calculator](https://howmuchstuff.com/concrete-calculator) - Calculate cubic yards, bags, weight, and cost for slabs, footings, and columns. Supports multiple shape inputs.
+- [Concrete Calculator Max](https://concretecalculatormax.com) - 26 specialized calculators for concrete, gravel, and masonry. Covers slabs, footings, columns, beams, walls, staircases, gravel driveway, pea gravel, and more.
 - [HowMuchStuff Brick Calculator](https://howmuchstuff.com/brick-calculator) - Determine brick quantities for walls, patios, and columns with mortar estimates.
 - [Quikrete Calculator](https://www.quikrete.com/calculator/main.asp) - Official Quikrete product calculator for their concrete mix products.
 - [Sakrete Calculator](https://www.sakrete.com/resources/calculators) - Concrete, mortar, and stucco calculators from Sakrete.
