@@ -152,3 +152,5 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 ## License
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+- [Hammerio](https://hammerio.com/) — Free construction cost calculators by US city using BLS Construction Wages OEWS data, county-level permit fees, and contractor licensing lookups. Covers 100+ projects (kitchen remodel, roofing, deck, fence, flooring) with material/labor/permit breakdown.
