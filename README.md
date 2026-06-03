@@ -29,6 +29,7 @@ Complete calculator suites covering multiple project types.
 - [Calculator.net](https://www.calculator.net/construction-calculator.html) - General-purpose calculators with a construction section.
 - [Omni Calculator](https://www.omnicalculator.com/construction) - Science-based calculators including construction and engineering tools.
 - [Inch Calculator](https://www.inchcalculator.com) - Construction and home improvement calculators with detailed methodology.
+- [Calculapedia](https://calculapedia.com) - 40 free material and cost calculators across concrete, landscaping, painting, flooring, roofing, and decking. Instant results with built-in waste allowances and no signup.
 
 ## Concrete & Masonry
 
