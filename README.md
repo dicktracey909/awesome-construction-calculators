@@ -100,6 +100,7 @@ Stair calculators, unit converters, and other construction planning tools.
 
 Tools for overall project cost estimation and budgeting.
 
+- [Foundation Cost Calculator](https://foundationcostcalculator.com/) - Estimate foundation repair and replacement costs for homeowners comparing contractor quotes.
 - [HomeAdvisor Cost Guides](https://www.homeadvisor.com/cost/) - National average costs for home improvement projects.
 - [Fixr Cost Guides](https://www.fixr.com/costs) - Detailed cost breakdowns for renovation and construction projects.
 - [RSMeans Online](https://www.rsmeansonline.com) - Professional construction cost data (paid).
