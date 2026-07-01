@@ -27,6 +27,7 @@ Complete calculator suites covering multiple project types.
 
 - [HowMuchStuff](https://howmuchstuff.com) - 82 free calculators across 11 categories including concrete, landscaping, painting, flooring, roofing, and more. Instant results with local pricing.
 - [Calculator.net](https://www.calculator.net/construction-calculator.html) - General-purpose calculators with a construction section.
+- [da-calculator](https://da-calculator.com/) - Free calculator directory with construction and home project tools including concrete, gravel, mulch, roofing, square footage, tile, stair, and BTU calculators.
 - [Omni Calculator](https://www.omnicalculator.com/construction) - Science-based calculators including construction and engineering tools.
 - [Inch Calculator](https://www.inchcalculator.com) - Construction and home improvement calculators with detailed methodology.
 
