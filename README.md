@@ -26,6 +26,7 @@ Maintained by [HowMuchStuff](https://howmuchstuff.com) — free materials and qu
 Complete calculator suites covering multiple project types.
 
 - [HowMuchStuff](https://howmuchstuff.com) - 82 free calculators across 11 categories including concrete, landscaping, painting, flooring, roofing, and more. Instant results with local pricing.
+- [ProjectQty](https://projectqty.com) - 41 free construction material calculators for concrete, gravel, roofing, flooring, landscaping, and more, with inspectable formulas and browser-local project guides.
 - [Calculator.net](https://www.calculator.net/construction-calculator.html) - General-purpose calculators with a construction section.
 - [Omni Calculator](https://www.omnicalculator.com/construction) - Science-based calculators including construction and engineering tools.
 - [Inch Calculator](https://www.inchcalculator.com) - Construction and home improvement calculators with detailed methodology.
