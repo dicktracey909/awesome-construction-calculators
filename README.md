@@ -35,7 +35,7 @@ Complete calculator suites covering multiple project types.
 Calculate volumes, bag counts, and costs for concrete and masonry projects.
 
 - [HowMuchStuff Concrete Calculator](https://howmuchstuff.com/concrete-calculator) - Calculate cubic yards, bags, weight, and cost for slabs, footings, and columns. Supports multiple shape inputs.
-- [Concrete Calculator Hub](https://concreteestimatorhub.com/) - Free concrete calculators for slab volume, bag counts, material cost, and ready-mix vs bagged concrete planning.
+- [Concrete Estimator Hub](https://concreteestimatorhub.com/) - Free concrete calculator suite for slab volume, bag counts, material cost, ready-mix vs bagged concrete planning, and embeddable calculator widgets for publisher sites.
 - [HowMuchStuff Brick Calculator](https://howmuchstuff.com/brick-calculator) - Determine brick quantities for walls, patios, and columns with mortar estimates.
 - [Quikrete Calculator](https://www.quikrete.com/calculator/main.asp) - Official Quikrete product calculator for their concrete mix products.
 - [Sakrete Calculator](https://www.sakrete.com/resources/calculators) - Concrete, mortar, and stucco calculators from Sakrete.
