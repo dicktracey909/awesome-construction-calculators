@@ -100,6 +100,7 @@ Stair calculators, unit converters, and other construction planning tools.
 
 Tools for overall project cost estimation and budgeting.
 
+- [SmartBizCalc](https://smartbizcalc.com) - 420+ free business calculators for contractors and small business owners: contractor markup, general contractor bid, lawn care pricing, fence contractor, roofing job cost, break-even, startup cost, and more. No signup required.
 - [HomeAdvisor Cost Guides](https://www.homeadvisor.com/cost/) - National average costs for home improvement projects.
 - [Fixr Cost Guides](https://www.fixr.com/costs) - Detailed cost breakdowns for renovation and construction projects.
 - [RSMeans Online](https://www.rsmeansonline.com) - Professional construction cost data (paid).
