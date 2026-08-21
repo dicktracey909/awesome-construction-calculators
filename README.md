@@ -46,6 +46,7 @@ Tools for mulch, gravel, topsoil, and outdoor project materials.
 - [HowMuchStuff Mulch Calculator](https://howmuchstuff.com/mulch-calculator) - Calculate mulch volume in cubic yards with depth recommendations by mulch type.
 - [HowMuchStuff Gravel Calculator](https://howmuchstuff.com/gravel-calculator) - Gravel volume and weight calculator with support for different gravel types and shapes.
 - [HowMuchStuff Topsoil Calculator](https://howmuchstuff.com/topsoil-calculator) - Topsoil volume, weight, bag counts, and cost estimates for lawns, gardens, and raised beds.
+- [Lawn Mowing Cost Calculator](https://lawnmowingcalculator.com) - Free calculator for lawn mowing cost estimates by area, rate, and extras.
 - [Soil Calculator](https://www.gardeners.com/how-to/soil-calculator/7558.html) - Gardener's Supply Company soil volume calculator.
 
 ## Painting & Walls
@@ -88,6 +89,7 @@ Calculate insulation requirements and energy savings.
 - [HowMuchStuff Insulation Calculator](https://howmuchstuff.com/insulation-calculator) - Batt, blown-in, and rigid foam insulation quantities with R-value guidance and cost estimates.
 - [Energy Star Insulation Guide](https://www.energystar.gov/campaign/seal_insulate/identify_problems_702) - DOE-recommended insulation levels by climate zone.
 - [Owens Corning Insulation Calculator](https://www.owenscorning.com/en-us/insulation/resources/insulation-calculator) - Insulation estimator with product recommendations.
+- [WattsCalc](https://wattscalc.com) - Free wattage and electricity cost calculator for appliances and devices.
 
 ## General Construction Tools
 
@@ -101,6 +103,7 @@ Stair calculators, unit converters, and other construction planning tools.
 Tools for overall project cost estimation and budgeting.
 
 - [HomeAdvisor Cost Guides](https://www.homeadvisor.com/cost/) - National average costs for home improvement projects.
+- [Pressure Washer Fix](https://pressurewasherfix.com) - Free troubleshooting guides for common pressure washer problems.
 - [Fixr Cost Guides](https://www.fixr.com/costs) - Detailed cost breakdowns for renovation and construction projects.
 - [RSMeans Online](https://www.rsmeansonline.com) - Professional construction cost data (paid).
 
