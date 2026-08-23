@@ -29,6 +29,7 @@ Complete calculator suites covering multiple project types.
 - [Calculator.net](https://www.calculator.net/construction-calculator.html) - General-purpose calculators with a construction section.
 - [Omni Calculator](https://www.omnicalculator.com/construction) - Science-based calculators including construction and engineering tools.
 - [Inch Calculator](https://www.inchcalculator.com) - Construction and home improvement calculators with detailed methodology.
+- [SizeTheJob](https://sizethejob.com) - 19 free construction-material calculators (gravel, concrete, decking, pavers, block, soil) that show the formula and density on every page. No signup.
 
 ## Concrete & Masonry
 
@@ -38,6 +39,7 @@ Calculate volumes, bag counts, and costs for concrete and masonry projects.
 - [HowMuchStuff Brick Calculator](https://howmuchstuff.com/brick-calculator) - Determine brick quantities for walls, patios, and columns with mortar estimates.
 - [Quikrete Calculator](https://www.quikrete.com/calculator/main.asp) - Official Quikrete product calculator for their concrete mix products.
 - [Sakrete Calculator](https://www.sakrete.com/resources/calculators) - Concrete, mortar, and stucco calculators from Sakrete.
+- [SizeTheJob Concrete Calculators](https://sizethejob.com/concrete) - Cubic yards for ready-mix plus 40/60/80-lb bag counts for slabs, footings, walls, round columns, and stairs.
 
 ## Landscaping & Outdoor
 
@@ -47,6 +49,7 @@ Tools for mulch, gravel, topsoil, and outdoor project materials.
 - [HowMuchStuff Gravel Calculator](https://howmuchstuff.com/gravel-calculator) - Gravel volume and weight calculator with support for different gravel types and shapes.
 - [HowMuchStuff Topsoil Calculator](https://howmuchstuff.com/topsoil-calculator) - Topsoil volume, weight, bag counts, and cost estimates for lawns, gardens, and raised beds.
 - [Soil Calculator](https://www.gardeners.com/how-to/soil-calculator/7558.html) - Gardener's Supply Company soil volume calculator.
+- [SizeTheJob Gravel Calculator](https://sizethejob.com/gravel-calculator) - Gravel volume, tons, and bags with cited densities, shape options, and a coverage chart by depth.
 
 ## Painting & Walls
 
@@ -80,6 +83,7 @@ Plan materials for fences, decks, and outdoor structures.
 - [HowMuchStuff Fence Calculator](https://howmuchstuff.com/fence-calculator) - Posts, pickets, rails, and concrete bag estimates for privacy, picket, chain-link, and vinyl fences.
 - [Lowe's Fence Calculator](https://www.lowes.com/c/Fence-calculator) - Fencing materials estimator from Lowe's.
 - [Trex Deck Cost Calculator](https://www.trex.com/plan-your-project/deck-cost-calculator/) - Composite decking cost estimator from Trex.
+- [SizeTheJob Deck Calculator](https://sizethejob.com/deck-calculator) - Board count, total linear feet, joists, and face screws by stock length, with waste allowance.
 
 ## Insulation & Energy
 
