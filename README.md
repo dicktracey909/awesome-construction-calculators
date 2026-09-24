@@ -72,6 +72,7 @@ Estimate roofing materials including shingles, underlayment, and accessories.
 - [HowMuchStuff Roofing Calculator](https://howmuchstuff.com/roofing-calculator) - Calculate roofing squares, shingle bundles, underlayment, drip edge, and costs. Supports multiple roof pitches and material types.
 - [GAF Shingle Calculator](https://www.gaf.com/en-us/roofing/residential/tools/shingle-calculator) - Official GAF roofing materials calculator.
 - [Owens Corning Roofing Calculator](https://www.owenscorning.com/en-us/roofing/tools/roofing-calculator) - Estimate roofing materials with Owens Corning products.
+- [Your Calculator Hub Roofing Calculator](https://yourcalculatorhub.com/roofing-calculator.html) - Estimate roofing materials and costs by roof size and pitch.
 
 ## Fencing & Decking
 
