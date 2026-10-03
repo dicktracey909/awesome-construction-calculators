@@ -47,6 +47,7 @@ Tools for mulch, gravel, topsoil, and outdoor project materials.
 - [HowMuchStuff Gravel Calculator](https://howmuchstuff.com/gravel-calculator) - Gravel volume and weight calculator with support for different gravel types and shapes.
 - [HowMuchStuff Topsoil Calculator](https://howmuchstuff.com/topsoil-calculator) - Topsoil volume, weight, bag counts, and cost estimates for lawns, gardens, and raised beds.
 - [Soil Calculator](https://www.gardeners.com/how-to/soil-calculator/7558.html) - Gardener's Supply Company soil volume calculator.
+- [GravelCalc](https://www.gravelcalculate.com/) - Free gravel, sand, and stone calculators for cubic yards, tons, bags, and cost, with project-specific tools for driveways, paver bases, French drains, and fire pits.
 
 ## Painting & Walls
 
