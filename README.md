@@ -103,6 +103,7 @@ Tools for overall project cost estimation and budgeting.
 - [HomeAdvisor Cost Guides](https://www.homeadvisor.com/cost/) - National average costs for home improvement projects.
 - [Fixr Cost Guides](https://www.fixr.com/costs) - Detailed cost breakdowns for renovation and construction projects.
 - [RSMeans Online](https://www.rsmeansonline.com) - Professional construction cost data (paid).
+- [The AI Till Quote Calculator](https://theaitill.com/tools/free/quote-calculator) - Free UK quote calculator for trades with markup, VAT and the construction reverse charge (UK rules).
 
 ## Mobile Apps
 
