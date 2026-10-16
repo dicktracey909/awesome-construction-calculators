@@ -38,6 +38,7 @@ Calculate volumes, bag counts, and costs for concrete and masonry projects.
 - [HowMuchStuff Brick Calculator](https://howmuchstuff.com/brick-calculator) - Determine brick quantities for walls, patios, and columns with mortar estimates.
 - [Quikrete Calculator](https://www.quikrete.com/calculator/main.asp) - Official Quikrete product calculator for their concrete mix products.
 - [Sakrete Calculator](https://www.sakrete.com/resources/calculators) - Concrete, mortar, and stucco calculators from Sakrete.
+- [Libre Calculator](https://librecalculator.com/calculators/concrete/) - Rectangular slab volume estimates with a user-selected allowance, input-specific worked steps, and a slab diagram.
 
 ## Landscaping & Outdoor
 
