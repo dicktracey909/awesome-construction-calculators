@@ -103,6 +103,7 @@ Tools for overall project cost estimation and budgeting.
 - [HomeAdvisor Cost Guides](https://www.homeadvisor.com/cost/) - National average costs for home improvement projects.
 - [Fixr Cost Guides](https://www.fixr.com/costs) - Detailed cost breakdowns for renovation and construction projects.
 - [RSMeans Online](https://www.rsmeansonline.com) - Professional construction cost data (paid).
+- [Level Commercial Building Value & Trade Maintenance Calculator](https://levelcfo.com/tools/building-revenue-calculator/) - Free commercial building trade-service and maintenance expenditure estimator across 51 US states/DC, 11 building types, and 7 trades (HVAC, electrical, plumbing, roofing, fire/life-safety, commercial cleaning, landscaping), backed by open CBECS/BLS data ([tradesindex.org](https://tradesindex.org/compare/)).
 
 ## Mobile Apps
 
