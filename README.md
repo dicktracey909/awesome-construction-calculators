@@ -29,6 +29,7 @@ Complete calculator suites covering multiple project types.
 - [Calculator.net](https://www.calculator.net/construction-calculator.html) - General-purpose calculators with a construction section.
 - [Omni Calculator](https://www.omnicalculator.com/construction) - Science-based calculators including construction and engineering tools.
 - [Inch Calculator](https://www.inchcalculator.com) - Construction and home improvement calculators with detailed methodology.
+- + [VibeCalc](https://vibecalc.app) - 600+ free jobsite construction calculators (concrete, framing, roofing, decks, stairs, materials, cost). Metric + imperial. Free Android app with offline mode, voice input, and PDF export. No ads, no signup.
 
 ## Concrete & Masonry
 
