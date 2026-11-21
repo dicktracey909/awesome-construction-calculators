@@ -21,6 +21,7 @@ Maintained by [HowMuchStuff](https://howmuchstuff.com) — free materials and qu
 - [Communities](#communities)
 - [Contributing](#contributing)
 
+
 ## Multi-Calculator Sites
 
 Complete calculator suites covering multiple project types.
@@ -29,6 +30,7 @@ Complete calculator suites covering multiple project types.
 - [Calculator.net](https://www.calculator.net/construction-calculator.html) - General-purpose calculators with a construction section.
 - [Omni Calculator](https://www.omnicalculator.com/construction) - Science-based calculators including construction and engineering tools.
 - [Inch Calculator](https://www.inchcalculator.com) - Construction and home improvement calculators with detailed methodology.
+- [BuildCalcUSA](https://buildcalcusa.com) - 34 free construction calculators (fence, concrete, roofing, deck, drywall, dumpster and more) with U.S. labor costs by state and the formula shown on every page.
 
 ## Concrete & Masonry
 
@@ -103,6 +105,7 @@ Tools for overall project cost estimation and budgeting.
 - [HomeAdvisor Cost Guides](https://www.homeadvisor.com/cost/) - National average costs for home improvement projects.
 - [Fixr Cost Guides](https://www.fixr.com/costs) - Detailed cost breakdowns for renovation and construction projects.
 - [RSMeans Online](https://www.rsmeansonline.com) - Professional construction cost data (paid).
+- [Home Project Cost Index by State](https://buildcalcusa.com/construction-cost-index) - Fence, roof, siding, deck, bathroom remodel and dumpster costs for all 50 states, with CSV download (CC BY 4.0).
 
 ## Mobile Apps
 
