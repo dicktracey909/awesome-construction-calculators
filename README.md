@@ -25,6 +25,7 @@ Maintained by [HowMuchStuff](https://howmuchstuff.com) — free materials and qu
 
 Complete calculator suites covering multiple project types.
 
+- [BuildingsMath](https://buildingsmath.com) - 79 free building material calculators covering concrete, mulch, roofing, paint, flooring, and rebar with worked examples.
 - [HowMuchStuff](https://howmuchstuff.com) - 82 free calculators across 11 categories including concrete, landscaping, painting, flooring, roofing, and more. Instant results with local pricing.
 - [Calculator.net](https://www.calculator.net/construction-calculator.html) - General-purpose calculators with a construction section.
 - [Omni Calculator](https://www.omnicalculator.com/construction) - Science-based calculators including construction and engineering tools.
