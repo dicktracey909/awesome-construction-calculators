@@ -72,6 +72,7 @@ Estimate roofing materials including shingles, underlayment, and accessories.
 - [HowMuchStuff Roofing Calculator](https://howmuchstuff.com/roofing-calculator) - Calculate roofing squares, shingle bundles, underlayment, drip edge, and costs. Supports multiple roof pitches and material types.
 - [GAF Shingle Calculator](https://www.gaf.com/en-us/roofing/residential/tools/shingle-calculator) - Official GAF roofing materials calculator.
 - [Owens Corning Roofing Calculator](https://www.owenscorning.com/en-us/roofing/tools/roofing-calculator) - Estimate roofing materials with Owens Corning products.
+- [Hearth & Ledger State Roof Cost Calculator](https://zhangwen-hu.github.io/hearth-ledger/roofing/) - Compare architectural asphalt shingle vs. standing-seam metal roof replacement costs, pitch multipliers, and 40-year annualized lifecycle costs across all 50 states and DC.
 
 ## Fencing & Decking
 
@@ -88,6 +89,7 @@ Calculate insulation requirements and energy savings.
 - [HowMuchStuff Insulation Calculator](https://howmuchstuff.com/insulation-calculator) - Batt, blown-in, and rigid foam insulation quantities with R-value guidance and cost estimates.
 - [Energy Star Insulation Guide](https://www.energystar.gov/campaign/seal_insulate/identify_problems_702) - DOE-recommended insulation levels by climate zone.
 - [Owens Corning Insulation Calculator](https://www.owenscorning.com/en-us/insulation/resources/insulation-calculator) - Insulation estimator with product recommendations.
+- [Hearth & Ledger Heat Pump vs. Furnace Calculator](https://zhangwen-hu.github.io/hearth-ledger/heat-pump/) - State-by-state cold-climate heat pump vs. natural gas furnace seasonal operating cost and payback calculator using local electric kWh and gas therm tariffs.
 
 ## General Construction Tools
 
