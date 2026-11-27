@@ -64,6 +64,7 @@ Material calculators for tile, hardwood, and flooring projects.
 - [HowMuchStuff Tile Calculator](https://howmuchstuff.com/tile-calculator) - Calculate tile quantities with waste factor, accounting for cuts and breakage.
 - [Floor & Decor Calculator](https://www.flooranddecor.com/calculators.html) - Tile and flooring calculators from Floor & Decor.
 - [Home Depot Flooring Calculator](https://www.homedepot.com/c/flooring_buying_guide) - Flooring estimation tools from Home Depot.
+- [Epoxy Garage Floor Cost Calculator](https://epoxygaragefloorcost.com/) - Free calculator estimating coating quantities, surface prep, and total DIY or contractor costs for epoxy garage floors by square footage.
 
 ## Roofing
 
